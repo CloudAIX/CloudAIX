@@ -6,9 +6,6 @@
 - 🏥 Focus: **Healthcare SaaS platforms** and **Finance AI/ML solutions**.
 
 📚 **Certifications**
-
-- [![AWS Certified Solutions Architect – Associate](https://images.credly.com/path-to-badge-image)](https://www.credly.com/badges/your-badge-link)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 - In Progress: **AWS Solutions Architect - Professional**, **Azure Solutions Architect Expert**.
 
 🛠 **Technologies & Tools**
@@ -23,3 +20,7 @@
 
 ✨ **Fun Fact**
 - I’m blending **no-code tools** (Airtable, Softr) with cloud platforms to democratize technology!
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

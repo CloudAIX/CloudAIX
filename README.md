@@ -6,8 +6,9 @@
 - 🏥 Focus: **Healthcare SaaS platforms** and **Finance AI/ML solutions**.
 
 📚 **Certifications**
-- 
-- AWS Cloud Practitioner | AWS Technical Essentials.
+
+- [![AWS Certified Solutions Architect – Associate](https://images.credly.com/path-to-badge-image)](https://www.credly.com/badges/your-badge-link)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 - In Progress: **AWS Solutions Architect - Professional**, **Azure Solutions Architect Expert**.
 
 🛠 **Technologies & Tools**

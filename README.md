@@ -2,10 +2,11 @@
 
 🚀 **About Me**
 - 🌐 Aspiring Cloud Solutions Architect and Data Engineer.
-- 💻 Specializing in **multi-cloud environments** (AWS & Azure) and **AI-driven interoperability**.
-- 🏥 Focus: **Healthcare SaaS platforms** and **finance AI/ML solutions**.
+- 💻 Specializing in **multi-cloud environments** (AWS, Azure and GCP) and **AI-driven interoperability**.
+- 🏥 Focus: **Healthcare SaaS platforms** and **Finance AI/ML solutions**.
 
 📚 **Certifications**
+- 
 - AWS Cloud Practitioner | AWS Technical Essentials.
 - In Progress: **AWS Solutions Architect - Professional**, **Azure Solutions Architect Expert**.
 

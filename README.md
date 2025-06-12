@@ -1,7 +1,7 @@
 # Hi, I'm Nathan 👋
 
 🚀 **About Me**
-- 🌐 Aspiring Cloud Solutions Architect, Data and AI Engineer.
+- 🌐 Aspiring Cloud Solutions Architect, Data Analyst and AI Engineer.
 - 💻 Specializing in **multi-cloud environments** (AWS, Azure and GCP) and **AI-driven interoperability**.
 - 🏥 Focus: **Healthcare SaaS platforms** and **Finance AI/ML solutions**.
 

@@ -1,7 +1,7 @@
 # Hi, I'm Nathan 👋
 
 🚀 **About Me**
-- 🌐 Aspiring Cloud Solutions Architect, Data Analyst and AI Engineer.
+- 🌐 Aspiring Cloud Solutions Architect, Data Analyst and AI Product Management Professional.
 - 💻 Specializing in **multi-cloud environments** (AWS, Azure and GCP) and **AI-driven interoperability**.
 - 🏥 Focus: **Healthcare SaaS platforms** and **Finance AI/ML solutions**.
 
@@ -9,7 +9,7 @@
 - Prince 2 certified Practitioner
 - PMP Professional 
 - Certified Scrum Master
-- In Progress: **AWS Solutions Architect - Professional**, **Azure Solutions Architect Expert**.
+- In Progress: AWS Solutions Architect - Professional | Azure Solutions Architect Expert | IBM Product Managament Professional 
 
 🛠 **Technologies & Tools**
 - **Cloud**: AWS (S3, Lambda, SageMaker), Azure (VMs, Logic Apps).

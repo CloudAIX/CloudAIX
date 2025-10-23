@@ -6,10 +6,11 @@
 - 🏥 Focus: **Healthcare SaaS platforms** and **Finance AI/ML solutions**.
 
 📚 **Certifications**
+- AI IBM Product Management Professional 
 - Prince 2 certified Practitioner
 - PMP Professional 
 - Certified Scrum Master
-- In Progress: AWS Solutions Architect - Professional | Azure Solutions Architect Expert | IBM Product Managament Professional 
+- In Progress: AWS Solutions Architect - Professional | Azure Solutions Architect Expert | IBM GenAI Engineering with Python, LangChain & Watsonx 
 
 🛠 **Technologies & Tools**
 - **Cloud**: AWS (S3, Lambda, SageMaker), Azure (VMs, Logic Apps).

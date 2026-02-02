@@ -16,7 +16,7 @@ I run [GVRN-AI](https://gvrn-ai.com), where I help businesses deploy AI agents t
 
 ### About Me
 
-- 🏢 **Founder of GVRN-AI** — AI agency focused on voice agents, automation, and governance
+- 🏢 **Founder of GVRN-AI** — AI agency focused on voice agents, automation, workflows and governance
 - 📚 **AI Governance Professional** (AIGP) — studying for certification
 - 🎓 **Certifications**: PMP, PRINCE2, Certified Scrum Master, IBM AI Product Management
 - 🇦🇺 Based in Melbourne, Australia

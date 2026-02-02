@@ -1,30 +1,53 @@
-# Hi, I'm Nathan 👋
+# Hi, I'm Sree 👋
 
-🚀 **About Me**
-- 🌐 Aspiring Cloud Solutions Architect, Data Analyst, AI Engineer and AI Product Management Professional.
-- 💻 Specializing in **multi-cloud environments** (AWS, Azure and GCP) and **AI-driven interoperability**.
-- 🏥 Focus: **Healthcare SaaS platforms** and **Finance AI/ML solutions**.
+I build AI agents and automation systems that solve real business problems.
 
-📚 **Certifications**
-- AI IBM Product Management Professional 
-- Prince 2 certified Practitioner
-- PMP Professional 
-- Certified Scrum Master
-- In Progress: AWS Solutions Architect - Professional | Azure Solutions Architect Expert | IBM GenAI Engineering with Python, LangChain & Watsonx 
+Most of my work focuses on: **Voice AI agents**, **AI Governance**, **Healthcare AI**, and turning complex knowledge into executable systems.
 
-🛠 **Technologies & Tools**
-- **Cloud**: AWS (S3, Lambda, SageMaker), Azure (VMs, Logic Apps).
-- **Data**: Databricks, Terraform, SQL.
-- **AI/ML**: TensorFlow, Python, AutoML.
+I run [GVRN-AI](https://gvrn-ai.com), where I help businesses deploy AI agents that actually work — from voice receptionists to intelligent automation workflows.
 
-📂 **My Work**
-- [AI Interoperability Platform](https://github.com/YourRepoLink)
-- [Secure Healthcare API](https://github.com/YourRepoLink)
-- [Fraud Detection Pipeline](https://github.com/YourRepoLink)
+### What I work on
 
-✨ **Fun Fact**
-- I’m blending **no-code tools** (Airtable, Softr and Bubble) with cloud platforms to democratize technology!
+- 🎙️ **Voice AI Agents**: VAPI, Retell, Make.com — production-ready phone agents
+- 🤖 **AI Automation**: n8n, Make.com, LangChain — workflows that replace manual work
+- 🏥 **Healthcare AI**: Building compliant AI systems for aged care and chronic disease management
+- 🛡️ **AI Governance**: AIGP certification track, responsible AI frameworks
+- 🧠 **Knowledge Engineering**: Systems that turn scattered information into actionable intelligence
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### About Me
+
+- 🏢 **Founder of GVRN-AI** — AI agency focused on voice agents, automation, and governance
+- 📚 **AI Governance Professional** (AIGP) — studying for certification
+- 🎓 **Certifications**: PMP, PRINCE2, Certified Scrum Master, IBM AI Product Management
+- 🇦🇺 Based in Melbourne, Australia
+
+### Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [voice-agent-starter](https://github.com/CloudAIX/voice-agent-starter) | Generate production-ready voice agent prompts + VAPI configs + Make.com automation |
+| [AI-Growth-Engine](https://github.com/CloudAIX/AI-Growth-Engine) | Knowledge pipeline that transforms raw information into executable skills |
+| [Litellm](https://github.com/CloudAIX/Litellm) | Multi-model routing and orchestration |
+
+### Tech Stack
+
+**AI/ML**: LangChain, LangGraph, OpenAI, Claude, VAPI, Retell
+**Automation**: Make.com, n8n, Zapier
+**Cloud**: AWS, Azure, GCP
+**Data**: Python, SQL, ChromaDB, Pinecone
+
+### Currently Learning
+
+- 🎯 AI Evals & LLMOps (The Gen Academy)
+- 🔊 Advanced Voice Agent Architecture
+- 📊 AI Audit Frameworks for Enterprise
+
+### Let's Connect
+
+- 🌐 [gvrn-ai.com](https://gvrn-ai.com)
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+- 🐦 [Twitter/X](https://twitter.com/YOUR_TWITTER)
+
+---
+
+*Building the future of AI-powered business automation, one agent at a time.*

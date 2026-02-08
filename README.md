@@ -4,7 +4,7 @@ I build AI agents and automation systems that solve real business problems.
 
 Most of my work focuses on: **Voice AI agents**, **AI Governance**, **Healthcare AI**, and turning complex knowledge into executable systems.
 
-I run [GVRN-AI](https://gvrn-ai.com), where I help businesses deploy AI agents that actually work — from voice receptionists to intelligent automation workflows.
+I run [GVRN-AI](https://gvrn-ai.com), where I help businesses govern & deploy AI agents that actually work — from voice receptionists to intelligent automation workflows.
 
 ### What I work on
 

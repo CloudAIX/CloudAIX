@@ -1,4 +1,4 @@
-# Hi, I'm Sree 👋
+# Hi, I'm Nathan 👋
 
 I build AI agents and automation systems that solve real business problems.
 

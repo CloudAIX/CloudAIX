@@ -25,7 +25,8 @@ I run [GVRN-AI](https://gvrn-ai.com), where I help businesses govern & deploy AI
 
 | Project | Description |
 |---------|-------------|
-| [🎯 ai-audit-toolkit](https://github.com/CloudAIX/ai-audit-toolkit) | Run professional AI audits: interview questions, ROI calculator, executive reports. [🚀 Live Demo](https://ai-audit-toolkit-k7bkntlzuzsozfx898bbqc.streamlit.app/) |
+| [🎯 ai-audit-toolkit](https://github.com/CloudAIX/ai-audit-toolkit) | Run professional AI audits: interview questions, ROI calculator, executive reports. [🚀 Live Demo](https://ai-
+| [🔗 linkedin-intelligence](https://github.com/CloudAIX/linkedin-intelligence) | Break platform data asymmetry. Analyze your LinkedIn export to surface relationship insights. [🚀 Live Demo](https://linkedin-intelligence-5ocrqzlo8wawh5ebahpizp.streamlit.app/) |audit-toolkit-k7bkntlzuzsozfx898bbqc.streamlit.app/) |
 | voice-agent-starter | Generate production-ready voice agent prompts + VAPI configs + Make.com automation |
 | AI-Growth-Engine | Knowledge pipeline that transforms raw information into executable skills |
 | Litellm | Multi-model routing and orchestration |

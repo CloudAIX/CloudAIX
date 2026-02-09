@@ -1,55 +1,52 @@
-# Hi, I'm Nathan 👋
+# Hi, I'm Sree 👋
 
-I build AI tools and automation systems that solve real business problems — specialising in **healthcare** and **aged care**.
+I build AI agents and automation systems that solve real business problems.
 
-I run **[GVRN-AI](https://gvrn-ai.com)**, where I help organisations audit their AI readiness, identify automation opportunities, and deploy systems that actually work.
+Most of my work focuses on: **Voice AI agents**, **AI Governance**, **Healthcare AI**, and turning complex knowledge into executable systems.
 
----
+I run [GVRN-AI](https://gvrn-ai.com), where I help businesses govern & deploy AI agents that actually work — from voice receptionists to intelligent automation workflows.
 
-## 🎯 Featured: AI Audit Toolkit
+### What I work on
 
-**Run professional AI audits for clients using a proven framework.**
+- 🎤 **Voice AI Agents**: VAPI, Retell, Make.com — production-ready phone agents
+- 🤖 **AI Automation**: n8n, Make.com, LangChain — workflows that replace manual work
+- 🏥 **Healthcare AI**: Building compliant AI systems for aged care and chronic disease management
+- 🛡️ **AI Governance**: AIGP certification track, responsible AI frameworks
+- 🧠 **Knowledge Engineering**: Systems that turn scattered information into actionable intelligence
 
-> 7 opportunities identified · 106 hrs/week saved · $327K annual value · 555% ROI
+### About Me
 
-[🚀 Try the Live Demo](https://ai-audit-toolkit-k7bkntlzuzsozfx898bbqc.streamlit.app/) | [View Source on GitHub](https://github.com/CloudAIX/ai-audit-toolkit)
-
-**What it does:**
-- 📋 Generates industry-specific interview questions (healthcare, aged care, finance, manufacturing)
-- 🎯 Auto-categorises opportunities into Quick Wins, Big Swings, Nice-to-Haves
-- 📈 Calculates ROI with realistic efficiency adjustments
-- 📊 Produces branded executive reports and PowerPoint presentations
-- 🌐 Web UI for interactive client demos
-
----
-
-## What I Work On
-
-| Area | Focus |
-|------|-------|
-| 🏥 **Healthcare AI** | AI systems for aged care compliance, clinical workflows, and care management |
-| 🛡️ **AI Governance** | Audit frameworks, responsible AI, risk assessment for regulated industries |
-| 🤖 **AI Automation** | n8n, Make.com, LangChain — workflows that replace manual work |
-| 🎤 **Voice AI** | VAPI, Retell — production-ready voice agents for business |
-
----
-
-## About Me
-
-- 🏢 Founder of **[GVRN-AI](https://gvrn-ai.com)** — AI audit & automation for healthcare
-- 🎓 **PMP, PRINCE2, Certified Scrum Master, IBM AI Product Management**
-- 📚 10+ years in healthcare ICT & government project delivery
+- 🏢 **Founder of GVRN-AI** — AI agency focused on voice agents, automation, workflows and governance
+- 📚 **AI Governance Professional** (AIGP) — studying for certification
+- 🎓 **Certifications**: PMP, PRINCE2, Certified Scrum Master, IBM AI Product Management
 - 🇦🇺 Based in Melbourne, Australia
 
-## Tech Stack
+### Featured Projects
 
-**AI/ML:** LangChain · LangGraph · OpenAI · Claude · VAPI · Retell
-**Automation:** Make.com · n8n · Zapier
-**Cloud:** AWS · Azure · GCP
-**Data:** Python · SQL · ChromaDB · Pinecone
+| Project | Description |
+|---------|-------------|
+| [🎯 ai-audit-toolkit](https://github.com/CloudAIX/ai-audit-toolkit) | Run professional AI audits: interview questions, ROI calculator, executive reports. [🚀 Live Demo](https://ai-audit-toolkit-k7bkntlzuzsozfx898bbqc.streamlit.app/) |
+| voice-agent-starter | Generate production-ready voice agent prompts + VAPI configs + Make.com automation |
+| AI-Growth-Engine | Knowledge pipeline that transforms raw information into executable skills |
+| Litellm | Multi-model routing and orchestration |
 
----
+### Tech Stack
 
-## Let’s Connect
+**AI/ML:** LangChain, LangGraph, OpenAI, Claude, VAPI, Retell
+**Automation:** Make.com, n8n, Zapier
+**Cloud:** AWS, Azure, GCP
+**Data:** Python, SQL, ChromaDB, Pinecone
 
-[💼 LinkedIn](https://linkedin.com/in/nathanbhasker) | [🌐 gvrn-ai.com](https://gvrn-ai.com)
+### Currently Learning
+
+- 🎯 AI Evals & LLMOps (The Gen Academy)
+- 🔊 Advanced Voice Agent Architecture
+- 📊 AI Audit Frameworks for Enterprise
+
+### Let's Connect
+
+- 🌐 [gvrn-ai.com](https://gvrn-ai.com)
+- 💼 [LinkedIn](https://linkedin.com/in/nathanbhasker)
+- 🐦 [Twitter/X](https://twitter.com)
+
+> Building the future of AI-powered business automation, one agent at a time.

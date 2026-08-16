@@ -14,6 +14,16 @@ AI governance and agentic AI specialist in Melbourne, Australia. I help healthca
 | 🏥 **GVRN-AI** — AI governance for Australian aged care & healthcare | [gvrn-ai.com](https://gvrn-ai.com) |
 | 👤 **Profile + interview agent** — ask it anything you'd ask me in an interview | [nathan.gvrn-ai.com](https://nathan.gvrn-ai.com) |
 
+### Featured builds
+
+| Repo | What it shows |
+|---|---|
+| [healthcare-rag-system](https://github.com/CloudAIX/healthcare-rag-system) | Production-grade RAG over the Australian Aged Care Quality Standards — hybrid retrieval, compliance-aware answers |
+| [ai-transformation-blueprint](https://github.com/CloudAIX/ai-transformation-blueprint) | AI Transformation Blueprint generator for Australian healthcare — maturity model to roadmap |
+| [Support-KB-Assistant](https://github.com/CloudAIX/Support-KB-Assistant) | RAG support assistant — hybrid retrieval, chat UI, human-escalation paths |
+| [voice-agent-starter](https://github.com/CloudAIX/voice-agent-starter) | Production voice-agent system prompts + configs for VAPI, Retell and friends |
+| [linkedin-intelligence](https://github.com/CloudAIX/linkedin-intelligence) | Analyze your own LinkedIn export to surface relationship insights |
+
 ### What I work on
 
 - 🛡️ **AI Governance** — Privacy Act ADM compliance, ISO/IEC 42001-aligned frameworks, board-ready AI risk assessments

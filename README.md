@@ -1,8 +1,16 @@
 # Hi, I'm Nathan 👋
 
-AI governance and agentic AI specialist in Melbourne, Australia. I help healthcare and aged-care providers adopt AI with evidence — governance frameworks, AI audits, voice agents, and automation a board can sign off on.
+I build AI that works in the real world, not just in labs — and I can prove it, because everything I ship comes with published evaluation results.
 
-**The thesis: evidence over promises.** Every build ships with published evaluation results — golden datasets, LLM-judge pipelines calibrated against human labels, and deterministic safety gates ahead of the model on clinical paths (610 passing tests on my healthcare agent work).
+I'm an AI governance and agentic AI specialist in Melbourne, Australia. I run [GVRN-AI](https://gvrn-ai.com), a governance practice for Australian aged care and healthcare, and [GVRN-AI Automation](https://gvrn-ai.com.au), where I build voice agents, RAG systems, and workflow automation for businesses that need AI a board can sign off on.
+
+### The story
+
+I came to AI from the delivery side: fifteen years across statewide health infrastructure and enterprise project management before moving into AI product development. Leading AI strategy in telehealth, I delivered an NLP triage workflow that cut delays 30% and reached 85% adoption across 110 rural clinics — not because the model was clever, but because every part of it was auditable, governed, and explainable. Clinicians trusted it, so they used it.
+
+That experience became my thesis: **evidence over promises.** Most AI fails not at the model but at the seams — nobody governed the handoffs, nobody measured whether it actually works, nobody owns the decision when it's wrong. So my builds ship differently: golden datasets with known correct answers, LLM-judge pipelines calibrated against human labels, and deterministic safety gates ahead of the model wherever a decision touches a person (my healthcare agent work carries 610 passing tests, with emergency escalation that never waits on a model's opinion).
+
+Governance, done properly, isn't a handbrake. It's the thing that lets an organisation say yes with confidence. That's what I sell, and it's how I build.
 
 ### Live right now — try them
 
@@ -16,6 +24,8 @@ AI governance and agentic AI specialist in Melbourne, Australia. I help healthca
 
 ### Featured builds
 
+The public end of the workshop — each repo is a working system, not a tutorial.
+
 | Repo | What it shows |
 |---|---|
 | [healthcare-rag-system](https://github.com/CloudAIX/healthcare-rag-system) | Production-grade RAG over the Australian Aged Care Quality Standards — hybrid retrieval, compliance-aware answers |
@@ -26,11 +36,19 @@ AI governance and agentic AI specialist in Melbourne, Australia. I help healthca
 
 ### What I work on
 
-- 🛡️ **AI Governance** — Privacy Act ADM compliance, ISO/IEC 42001-aligned frameworks, board-ready AI risk assessments
-- 🏥 **Healthcare AI** — RAG over the Aged Care Quality Standards, deterministic clinical safety gates, compliant data pathways
-- 🎤 **Voice AI agents** — ElevenLabs agents in production; you can talk to one on my homepage
-- 📏 **AI evals** — inspect_ai, promptfoo, golden datasets, judge calibration against human labels
-- 🤖 **Automation** — n8n, Make.com, agent orchestration that replaces manual work
+- 🛡️ **AI Governance** — Privacy Act ADM compliance, ISO/IEC 42001-aligned frameworks, and AI risk assessments written for boards, not engineers
+- 🏥 **Healthcare AI** — RAG over regulatory standards, deterministic clinical safety gates, and compliant data pathways for aged care and health providers
+- 🎤 **Voice AI agents** — ElevenLabs agents in production; the one on my homepage answers in my own cloned voice
+- 📏 **AI evals** — inspect_ai, promptfoo, golden datasets, judge calibration; the boring, careful work that separates a demo from a product
+- 🤖 **Automation** — n8n, Make.com, and agent orchestration that gives people their hours back
+
+### Tech stack
+
+**AI/ML:** Claude, OpenAI, Gemini, LangChain, LangGraph, ElevenLabs, VAPI, Retell
+**Evals:** inspect_ai, promptfoo, garak, custom LLM-judge pipelines
+**Automation:** n8n, Make.com, Zapier
+**Data:** Python, SQL, ChromaDB, Pinecone, LlamaIndex
+**Cloud:** Cloudflare, AWS, Azure, GCP
 
 ### Credentials
 

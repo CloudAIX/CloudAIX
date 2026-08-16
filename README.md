@@ -1,53 +1,31 @@
 # Hi, I'm Nathan 👋
 
-I build AI agents and automation systems that solve real business problems.
+AI governance and agentic AI specialist in Melbourne, Australia. I help healthcare and aged-care providers adopt AI with evidence — governance frameworks, AI audits, voice agents, and automation a board can sign off on.
 
-Most of my work focuses on: **Voice AI agents**, **AI Governance**, **Healthcare AI**, and turning complex knowledge into executable systems.
+**The thesis: evidence over promises.** Every build ships with published evaluation results — golden datasets, LLM-judge pipelines calibrated against human labels, and deterministic safety gates ahead of the model on clinical paths (610 passing tests on my healthcare agent work).
 
-I run [GVRN-AI](https://gvrn-ai.com), where I help businesses govern & deploy AI agents that actually work — from voice receptionists to intelligent automation workflows.
+### Live right now — try them
+
+| What | Where |
+|---|---|
+| 🛡️ **ADM disclosure generator** (free) — the Privacy Act's 10 Dec 2026 automated-decisions deadline | [gvrn-ai.com.au/adm](https://gvrn-ai.com.au/adm) |
+| 🎤 **Talk to my AI assistant** — voice or chat, running my professional voice clone | [gvrn-ai.com.au](https://gvrn-ai.com.au) |
+| 🌳 **Arborist report demo** — AS 4970:2025 TPZ/SRZ calculations from live inputs | [canopy-reports.pages.dev/demo](https://canopy-reports.pages.dev/demo) |
+| 🏥 **GVRN-AI** — AI governance for Australian aged care & healthcare | [gvrn-ai.com](https://gvrn-ai.com) |
+| 👤 **Profile + interview agent** — ask it anything you'd ask me in an interview | [nathan.gvrn-ai.com](https://nathan.gvrn-ai.com) |
 
 ### What I work on
 
-- 🎤 **Voice AI Agents**: VAPI, Retell, Make.com — production-ready phone agents
-- 🤖 **AI Automation**: n8n, Make.com, LangChain — workflows that replace manual work
-- 🏥 **Healthcare AI**: Building compliant AI systems for aged care and chronic disease management
-- 🛡️ **AI Governance**: AIGP certification track, responsible AI frameworks
-- 🧠 **Knowledge Engineering**: Systems that turn scattered information into actionable intelligence
+- 🛡️ **AI Governance** — Privacy Act ADM compliance, ISO/IEC 42001-aligned frameworks, board-ready AI risk assessments
+- 🏥 **Healthcare AI** — RAG over the Aged Care Quality Standards, deterministic clinical safety gates, compliant data pathways
+- 🎤 **Voice AI agents** — ElevenLabs agents in production; you can talk to one on my homepage
+- 📏 **AI evals** — inspect_ai, promptfoo, golden datasets, judge calibration against human labels
+- 🤖 **Automation** — n8n, Make.com, agent orchestration that replaces manual work
 
-### About Me
+### Credentials
 
-- 🏢 **Founder of GVRN-AI** — AI agency focused on voice agents, automation, workflows and governance
-- 📚 **AI Governance Professional** (AIGP) — studying for certification
-- 🎓 **Certifications**: PMP, PRINCE2, Certified Scrum Master, IBM AI Product Management
-- 🇦🇺 Based in Melbourne, Australia
+MBA · PMP · PRINCE2 · IBM AI Product Management · **Mastering Agentic AI** — Maven & The Gen Academy, 2026 ([verify](https://maven.com/wrap-up/4b49670a)) · AIGP in progress
 
-### Featured Projects
+### Contact
 
-| Project | Description |
-|---------|-------------|
-| [🎯 ai-audit-toolkit](https://github.com/CloudAIX/ai-audit-toolkit) | Run professional AI audits: interview questions, ROI calculator, executive reports. [🚀 Live Demo](https://ai-
-| [🔗 linkedin-intelligence](https://github.com/CloudAIX/linkedin-intelligence) | Break platform data asymmetry. Analyze your LinkedIn export to surface relationship insights. [🚀 Live Demo](https://linkedin-intelligence-5ocrqzlo8wawh5ebahpizp.streamlit.app/) |audit-toolkit-k7bkntlzuzsozfx898bbqc.streamlit.app/) |
-| voice-agent-starter | Generate production-ready voice agent prompts + VAPI configs + Make.com automation |
-| AI-Growth-Engine | Knowledge pipeline that transforms raw information into executable skills |
-| Litellm | Multi-model routing and orchestration |
-
-### Tech Stack
-
-**AI/ML:** LangChain, LangGraph, OpenAI, Claude, VAPI, Retell
-**Automation:** Make.com, n8n, Zapier
-**Cloud:** AWS, Azure, GCP
-**Data:** Python, SQL, ChromaDB, Pinecone
-
-### Currently Learning
-
-- 🎯 AI Evals & LLMOps (The Gen Academy)
-- 🔊 Advanced Voice Agent Architecture
-- 📊 AI Audit Frameworks for Enterprise
-
-### Let's Connect
-
-- 🌐 [gvrn-ai.com](https://gvrn-ai.com)
-- 💼 [LinkedIn](https://linkedin.com/in/nathanbhasker)
-- 🐦 [Twitter/X](https://twitter.com)
-
-> Building the future of AI-powered business automation, one agent at a time.
+[gvrn-ai.com.au](https://gvrn-ai.com.au) · nathan@gvrn-ai.com.au · [Book a discovery call](https://calendly.com/nathan-bhasker/discovery-call) · [LinkedIn](https://www.linkedin.com/company/gvrnai)

@@ -6,7 +6,7 @@ I'm an AI governance and agentic AI specialist in Melbourne, Australia. I run [G
 
 ### The story
 
-I came to AI from the delivery side: fifteen years across statewide health infrastructure and enterprise project management before moving into AI product development. Leading AI strategy in telehealth, I delivered an NLP triage workflow that cut delays 30% and reached 85% adoption across 110 rural clinics — not because the model was clever, but because every part of it was auditable, governed, and explainable. Clinicians trusted it, so they used it.
+I came to AI from the delivery side: more than ten years across statewide health infrastructure and enterprise project management before moving into AI product development. In telehealth, I led delivery of an NLP triage workflow that cut delays 30% and reached 85% adoption across rural clinics — not because the model was clever, but because every part of it was auditable, governed, and explainable. Clinicians trusted it, so they used it.
 
 That experience became my thesis: **evidence over promises.** Most AI fails not at the model but at the seams — nobody governed the handoffs, nobody measured whether it actually works, nobody owns the decision when it's wrong. So my builds ship differently: golden datasets with known correct answers, LLM-judge pipelines calibrated against human labels, and deterministic safety gates ahead of the model wherever a decision touches a person (my healthcare agent work carries 610 passing tests, with emergency escalation that never waits on a model's opinion).
 
